@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![gif](https://tenten.marketing/blog/content/images/size/w2000/2021/07/No-Code------------------Coding---..--by-Rae--Jul--2021--Tenten-------.jpg)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=chiisen&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&theme=dark&layout=compact)
