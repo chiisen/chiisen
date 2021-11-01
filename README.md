@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- 打字特效 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好啊!歡迎來到我的 GitHub&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好啊!歡迎來到我的GitHub&center=true&size=27">
   </a>
 </h1>
 
