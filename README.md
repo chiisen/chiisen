@@ -1,4 +1,5 @@
 <!-- GitHub Profile 的設定 -->
+<!-- 教學參考 docs/GitHubProfile.md -->
 
 ### Hi there 👋
 
@@ -26,12 +27,12 @@ Here are some ideas to get you started:
 
 ![程式碼美圖2](https://i.imgur.com/cAcoxOp.jpg)
 
-<!-- 连续打卡 -->
+<!-- 連續打卡 -->
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chiisen" />
 </div>
 
-<!-- 活动统计图 -->
+<!-- 活動統計圖 -->
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=chiisen&theme=xcode" />
 </div>
