@@ -19,3 +19,6 @@
 可以參考我目前的設定作為範本。  
 [🚀連結到 chiisen 的 GitHub Profile 設定範本🚀](https://github.com/chiisen/chiisen/blob/main/README.md?plain=1)
 
+### Icon 圖片
+網址可以參考: https://github.com/Ileriayo/markdown-badges
+
