@@ -134,9 +134,9 @@ Here are some ideas to get you started:
 <!-- END YOUTUBE-CARDS -->
 
 
-<!-- 活動統計圖 -->
+<!-- 連續打卡 -->
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=chiisen&theme=xcode" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chiisen" />
 </div>
 
 
