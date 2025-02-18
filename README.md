@@ -128,24 +128,21 @@ Here are some ideas to get you started:
 <!-- https://ytcards.demolab.com/?id=<影片 ID>&title=<影片+標題>&lang=en&timestamp=<影片發佈日期（Unix長度（秒）> "<影片標題>") -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<!-- 開始 YouTube 卡片 -->
 
 [![我想要你手中的釣竿](https://ytcards.demolab.com/?id=1lXaKEy97qE&title=【圖下方】我想要你手中的釣竿&lang=tw&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "【滑鼠上移】我想要你手中的釣竿")](https://youtu.be/hKn1WZeRAQQ)
 
 <!-- END YOUTUBE-CARDS -->
-<!-- YouTube 卡片結束 -->
 
-<!-- 連續打卡 -->
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chiisen" />
-</div>
 
 <!-- 活動統計圖 -->
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=chiisen&theme=xcode" />
 </div>
 
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chiisen&show_icons=true&theme=dark&count_private=true)
+
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&theme=dark&layout=compact)
 
 
