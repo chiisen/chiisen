@@ -1,5 +1,5 @@
-<!-- GitHub Profile 的設定 -->
-<!-- 教學參考 docs/GitHubProfile.md -->
+<!-- GitHub Profile 的設定檔案 README.md -->
+<!-- 如果需要教學參考 docs/GitHubProfile.md -->
 
 ### Hi there 👋
 
