@@ -114,10 +114,26 @@ Here are some ideas to get you started:
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
+### Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- YouTube 視訊卡來自 https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- 如果您想顯示最新的視頻，那麼只需按照上述 repo 中的說明進行操作。 -->
 
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- 如果您想選擇顯示哪些視頻，那麼您可以透過更改尖括號中的以下參數來手動生成視頻連結。 -->
 
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- https://ytcards.demolab.com/?id=<影片 ID>&title=<影片+標題>&lang=en&timestamp=<影片發佈日期（Unix長度（秒）> "<影片標題>") -->
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- 開始 YouTube 卡片 -->
+
+[![我想要你手中的釣竿](https://ytcards.demolab.com/?id=1lXaKEy97qE&title=【圖下方】我想要你手中的釣竿&lang=tw&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "【滑鼠上移】我想要你手中的釣竿")](https://youtu.be/hKn1WZeRAQQ)
+
+<!-- END YOUTUBE-CARDS -->
+<!-- YouTube 卡片結束 -->
 
 <!-- 連續打卡 -->
 <div align="center">

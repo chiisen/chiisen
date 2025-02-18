@@ -21,4 +21,10 @@
 
 ### Icon 圖片
 網址可以參考: https://github.com/Ileriayo/markdown-badges
+找到需要的圖示，複製右邊 md 格式的內容到 README.md 檔案內就能顯示圖示，C# 圖示範例如下。  
+```
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+```
 
+### Videos 影片
+請參考: https://github.com/DenverCoder1/github-readme-youtube-cards
