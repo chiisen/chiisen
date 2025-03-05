@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </h1>
 
 <!-- 程式碼美圖2 -->
-<img src="https://i.imgur.com/cAcoxOp.jpg" width="500">  
+<img src="https://i.imgur.com/cAcoxOp.jpg" width="200">  
 
 - 👨‍💻 工作經驗 14~15年
 
