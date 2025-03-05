@@ -38,7 +38,8 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-![程式碼美圖2](https://i.imgur.com/cAcoxOp.jpg)
+<!-- 程式碼美圖2 -->
+<img src="https://i.imgur.com/cAcoxOp.jpg" width="500">  
 
 - 👨‍💻 工作經驗 14~15年
 
