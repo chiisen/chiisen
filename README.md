@@ -1,7 +1,7 @@
 <!-- GitHub Profile 的設定檔案 README.md -->
 <!-- 如果需要教學參考 docs/GitHubProfile.md -->
 
-### 我是程式設計師 👋
+### 我是程式猿 Sam 🐵
 
 <!--
 **chiisen/chiisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
