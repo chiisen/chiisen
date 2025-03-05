@@ -45,16 +45,17 @@ Here are some ideas to get you started:
 也許你想知道:
 
 - 👨‍💻 我的經歷:  
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">唯舞獨尊Online</a> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">2007年05月03日 唯舞獨尊Online</a> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 <img src="./images/we_online.jpeg" width="200">  
 
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">唯舞獨尊(臉書版)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">2012年04月19日 唯舞獨尊(臉書版)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 <img src="./images/we_fb.jpeg" width="200">  
 
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=71734" target="_blank">唯舞獨尊 DX</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=71734" target="_blank">2014年10月19日 唯舞獨尊 DX</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 <img src="./images/we_dx.jpeg" width="200">  
 
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=85429" target="_blank">倖存者聯盟</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=85429" target="_blank">2016年10月06日 倖存者聯盟</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 <img src="./images/survivor.jpg" width="200">  
 
 ## Github 今年總結 ✨
