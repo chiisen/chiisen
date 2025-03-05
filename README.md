@@ -45,12 +45,16 @@ Here are some ideas to get you started:
 也許你想知道:
 
 - 👨‍💻 我的經歷:  
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">唯舞獨尊Online</a>  
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">唯舞獨尊(臉書版)</a>  
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=71734" target="_blank">唯舞獨尊 DX</a>  
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=85429" target="_blank">倖存者聯盟</a>  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">唯舞獨尊Online</a> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+<img src="./images/we_online.jpeg" width="200">  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">唯舞獨尊(臉書版)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<img src="./images/we_fb.jpeg" width="200">  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=71734" target="_blank">唯舞獨尊 DX</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<img src="./images/we_dx.jpeg" width="200">  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=85429" target="_blank">倖存者聯盟</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
+<img src="./images/survivor.jpg" width="200">  
 
-## 今年總結 ✨
+## Github 今年總結 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chiisen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
