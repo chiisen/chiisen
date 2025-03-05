@@ -129,15 +129,3 @@ Here are some ideas to get you started:
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
 
-<!-- 連續打卡 -->
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chiisen" />
-</div>
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=chiisen&show_icons=true&theme=dark&count_private=true)
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&theme=dark&layout=compact)
-
-
