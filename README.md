@@ -1,7 +1,7 @@
 <!-- GitHub Profile 的設定檔案 README.md -->
 <!-- 如果需要教學參考 docs/GitHubProfile.md -->
 
-### Hi there 👋
+### 我是程式設計師 👋
 
 <!--
 **chiisen/chiisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +39,20 @@ Here are some ideas to get you started:
 </h1>
 
 ![程式碼美圖2](https://i.imgur.com/cAcoxOp.jpg)
+
+- 👨‍💻 工作經驗 14~15年
+
+也許你想知道:
+
+- 👨‍💻 我的經歷:  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">唯舞獨尊Online</a>  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">唯舞獨尊(臉書版)</a>  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=71734" target="_blank">唯舞獨尊 DX</a>  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=85429" target="_blank">倖存者聯盟</a>  
+
+## 今年總結 ✨
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chiisen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### 📋 Languages
 <!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
@@ -113,25 +127,6 @@ Here are some ideas to get you started:
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
-
-### Videos
-<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<!-- YouTube 視訊卡來自 https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
-<!-- 如果您想顯示最新的視頻，那麼只需按照上述 repo 中的說明進行操作。 -->
-
-<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
-<!-- 如果您想選擇顯示哪些視頻，那麼您可以透過更改尖括號中的以下參數來手動生成視頻連結。 -->
-
-<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
-<!-- https://ytcards.demolab.com/?id=<影片 ID>&title=<影片+標題>&lang=en&timestamp=<影片發佈日期（Unix長度（秒）> "<影片標題>") -->
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-[![我想要你手中的釣竿](https://ytcards.demolab.com/?id=1lXaKEy97qE&title=【圖下方】我想要你手中的釣竿&lang=tw&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "【滑鼠上移】我想要你手中的釣竿")](https://youtu.be/hKn1WZeRAQQ)
-
-<!-- END YOUTUBE-CARDS -->
 
 
 <!-- 連續打卡 -->
