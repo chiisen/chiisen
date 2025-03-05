@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 我的經歷:  
 
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">2007年05月03日 唯舞獨尊Online</a> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">2007年05月03日 唯舞獨尊Online</a> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 <img src="./images/we_online.jpeg" width="200">  
 
 <a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">2012年04月19日 唯舞獨尊(臉書版)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
