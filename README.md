@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/chiisen/mssql-bot" target="_blank">MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
 - ⭐️ 文章分享:  
 <a href="https://github.com/chiisen/DesignPatterns.cs" target="_blank">C# 設計模式學習筆記與程式碼範例</a>  
-
+<a href="https://github.com/chiisen/DesignPatterns.js" target="_blank">JavaScript 設計模式學習筆記與程式碼範例</a>  
 ## ✨ Github 今年總結  
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chiisen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
