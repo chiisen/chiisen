@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 - 🏡 開源作品:  
 <a href="https://github.com/chiisen/WebSpeedReader" target="_blank">Web Speed Reader 中文為"網頁快速閱讀助手"，是一款 Chrome 擴充套件支持 groq 上的 mixtral-8x7b-32768 的 AI 總結工具</a>  
 <a href="https://github.com/chiisen/mssql-bot" target="_blank">MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
+- ⭐️ 文章分享:  
+<a href="https://github.com/chiisen/DesignPatterns.cs" target="_blank">C# 設計模式學習筆記與程式碼範例</a>  
 
 ## ✨ Github 今年總結  
 
