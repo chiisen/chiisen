@@ -62,13 +62,22 @@ Here are some ideas to get you started:
 <a href="https://reurl.cc/WAll35" target="_blank">2018年01月05日 雪霸國家公園櫻花鉤吻鮭互動導覽程式</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 <img src="./images/20180105salmon.jpg" width="200">  
 
+---
+
 - 🏡 開源作品:  
 <a href="https://github.com/chiisen/WebSpeedReader" target="_blank">Web Speed Reader 中文為"網頁快速閱讀助手"，是一款 Chrome 擴充套件支持 groq 上的 mixtral-8x7b-32768 的 AI 總結工具</a>  
 <a href="https://github.com/chiisen/mssql-bot" target="_blank">MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
+<a href="https://github.com/chiisen/ClaudeLocalMCP.js" target="_blank">自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁</a>  
+
+---
+
 - ⭐️ 文章分享:  
 <a href="https://github.com/chiisen/DesignPatterns.cs" target="_blank">C# 設計模式學習筆記與程式碼範例</a>  
 <a href="https://github.com/chiisen/DesignPatterns.js" target="_blank">JavaScript 設計模式學習筆記與程式碼範例</a>  
 <a href="https://github.com/chiisen/FunctionalDesignPattern" target="_blank">"Functional Design Pattern" 是一個結合函數式程式設計和設計模式的概念。</a>  
+
+---
+
 ## ✨ Github 今年總結  
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chiisen&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiisen&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
