@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 👨‍💻 工作經驗 14~15年
 
 也許你想知道:
-- 👨‍💻 最進學習:  
+- 👨‍💻 最近學習:  
 MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 
 ---
