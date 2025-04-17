@@ -47,20 +47,20 @@ Here are some ideas to get you started:
 
 - 👨‍💻 我的經歷:  
 
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">2007年05月03日 唯舞獨尊Online</a> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-<img src="./images/we_online.jpeg" width="200">  
-
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">2012年04月19日 唯舞獨尊(臉書版)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-<img src="./images/we_fb.jpeg" width="200">  
-
-<a href="https://acg.gamer.com.tw/acgDetail.php?s=71734" target="_blank">2014年10月19日 唯舞獨尊 DX</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-<img src="./images/we_dx.jpeg" width="200">  
+<a href="https://reurl.cc/WAll35" target="_blank">2018年01月05日 雪霸國家公園櫻花鉤吻鮭互動導覽程式</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
+<img src="./images/20180105salmon.jpg" width="200">  
 
 <a href="https://acg.gamer.com.tw/acgDetail.php?s=85429" target="_blank">2016年10月06日 倖存者聯盟</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 <img src="./images/survivor.jpg" width="200">  
 
-<a href="https://reurl.cc/WAll35" target="_blank">2018年01月05日 雪霸國家公園櫻花鉤吻鮭互動導覽程式</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
-<img src="./images/20180105salmon.jpg" width="200">  
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=71734" target="_blank">2014年10月19日 唯舞獨尊 DX</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<img src="./images/we_dx.jpeg" width="200">  
+
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=54751" target="_blank">2012年04月19日 唯舞獨尊(臉書版)</a> ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+<img src="./images/we_fb.jpeg" width="200">  
+
+<a href="https://acg.gamer.com.tw/acgDetail.php?s=10967" target="_blank">2007年05月03日 唯舞獨尊Online</a> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+<img src="./images/we_online.jpeg" width="200">  
 
 ---
 
@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/chiisen/WebSpeedReader" target="_blank">Web Speed Reader 中文為"網頁快速閱讀助手"，是一款 Chrome 擴充套件支持 groq 上的 mixtral-8x7b-32768 的 AI 總結工具</a>  
 <a href="https://github.com/chiisen/mssql-bot" target="_blank">MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
 <a href="https://github.com/chiisen/ClaudeLocalMCP.js" target="_blank">自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁</a>  
+<a href="https://github.com/chiisen/ClaudeLocalMCP.ts" target="_blank">自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁</a>  
 
 ---
 
