@@ -100,10 +100,11 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 ---
 
 - ⭐️ 文章分享:  
+<a href="https://github.com/chiisen/Google_AI_Studio" target="_blank">🔗 "Google_AI_Studio" 教會你用 Google AI Studio 提早結束工作回家。</a>  
 <a href="https://github.com/chiisen/DesignPatterns.cs" target="_blank">🔗 C# 設計模式學習筆記與程式碼範例</a>  
 <a href="https://github.com/chiisen/DesignPatterns.js" target="_blank">🔗 JavaScript 設計模式學習筆記與程式碼範例</a>  
 <a href="https://github.com/chiisen/FunctionalDesignPattern" target="_blank">🔗 "Functional Design Pattern" 是一個結合函數式程式設計和設計模式的概念。</a>  
-<a href="https://github.com/chiisen/Google_AI_Studio" target="_blank">🔗 "Google_AI_Studio" 教會你用 Google AI Studio 提早結束工作回家。</a>  
+
 
 ---
 
