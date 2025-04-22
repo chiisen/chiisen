@@ -91,22 +91,25 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 
 ---
 
-- 🏡 開源作品:  
+- 🏡 開源作品(大概有80個，還在持續累積中):  
 <a href="https://github.com/chiisen/ClaudeLocalMCP.js" target="_blank">🔗 "ClaudeLocalMCP.js",自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁</a>  
 <a href="https://github.com/chiisen/ClaudeLocalMCP.ts" target="_blank">🔗 "ClaudeLocalMCP.ts",自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁</a>  
 <a href="https://github.com/chiisen/mssql-bot" target="_blank">🔗 "mssql-bot"，MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
 <a href="https://github.com/chiisen/WebSpeedReader" target="_blank">🔗 Web Speed Reader 中文為"網頁快速閱讀助手"，是一款 Chrome 擴充套件支持 groq 上的 mixtral-8x7b-32768 的 AI 總結工具</a>  
 <a href="https://github.com/chiisen/Simulate_3D_dice_rolling_animation.js" target="_blank">🔗 【與朋友討論前端動畫作法DEMO】盡量使用較少的程式碼模擬擲 3D 骰子的動畫演出( JavaScript 版本，附上完整註解說明)</a>  
 
+<a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
+
 ---
 
-- ⭐️ 文章分享:  
+- ⭐️ 文章分享(大概有10個，還在持續累積中):  
 <a href="https://github.com/chiisen/n8n" target="_blank">🔗 "n8n" 全面瞭解 n8n v1.88.0 的重磅更新 —— MCP Server。</a>  
 <a href="https://github.com/chiisen/Google_AI_Studio" target="_blank">🔗 "Google_AI_Studio" 教會你用 Google AI Studio 提早結束工作回家。</a>  
 <a href="https://github.com/chiisen/DesignPatterns.cs" target="_blank">🔗 C# 設計模式學習筆記與程式碼範例</a>  
 <a href="https://github.com/chiisen/DesignPatterns.js" target="_blank">🔗 JavaScript 設計模式學習筆記與程式碼範例</a>  
 <a href="https://github.com/chiisen/FunctionalDesignPattern" target="_blank">🔗 "Functional Design Pattern" 是一個結合函數式程式設計和設計模式的概念。</a>  
 
+<a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
 ---
 
