@@ -92,10 +92,11 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 ---
 
 - 🏡 開源作品:  
-<a href="https://github.com/chiisen/WebSpeedReader" target="_blank">🔗 Web Speed Reader 中文為"網頁快速閱讀助手"，是一款 Chrome 擴充套件支持 groq 上的 mixtral-8x7b-32768 的 AI 總結工具</a>  
-<a href="https://github.com/chiisen/mssql-bot" target="_blank">🔗 "mssql-bot"，MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
 <a href="https://github.com/chiisen/ClaudeLocalMCP.js" target="_blank">🔗 "ClaudeLocalMCP.js",自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁</a>  
 <a href="https://github.com/chiisen/ClaudeLocalMCP.ts" target="_blank">🔗 "ClaudeLocalMCP.ts",自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁</a>  
+<a href="https://github.com/chiisen/mssql-bot" target="_blank">🔗 "mssql-bot"，MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
+<a href="https://github.com/chiisen/WebSpeedReader" target="_blank">🔗 Web Speed Reader 中文為"網頁快速閱讀助手"，是一款 Chrome 擴充套件支持 groq 上的 mixtral-8x7b-32768 的 AI 總結工具</a>  
+<a href="https://github.com/chiisen/Simulate_3D_dice_rolling_animation.js" target="_blank">🔗 盡量使用較少的程式碼模擬擲 3D 骰子的動畫演出( JavaScript 版本，附上完整註解說明)</a>  
 
 ---
 
