@@ -91,7 +91,7 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 
 ---
 
-- 🏡 開源作品(大概有80個，還在持續累積中):  
+- 🏡 開源作品(大概有80個，還在持續累積中🏃‍♂️):  
 <a href="https://github.com/chiisen/ClaudeLocalMCP.js" target="_blank">🔗 "ClaudeLocalMCP.js",自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁</a>  
 <a href="https://github.com/chiisen/ClaudeLocalMCP.ts" target="_blank">🔗 "ClaudeLocalMCP.ts",自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁</a>  
 <a href="https://github.com/chiisen/mssql-bot" target="_blank">🔗 "mssql-bot"，MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
@@ -102,7 +102,7 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 
 ---
 
-- ⭐️ 文章分享(大概有10個，還在持續累積中):  
+- ⭐️ 文章分享(大概有10個，還在持續累積中🏃‍♂️):  
 <a href="https://github.com/chiisen/n8n" target="_blank">🔗 "n8n" 全面瞭解 n8n v1.88.0 的重磅更新 —— MCP Server。</a>  
 <a href="https://github.com/chiisen/Google_AI_Studio" target="_blank">🔗 "Google_AI_Studio" 教會你用 Google AI Studio 提早結束工作回家。</a>  
 <a href="https://github.com/chiisen/DesignPatterns.cs" target="_blank">🔗 C# 設計模式學習筆記與程式碼範例</a>  
