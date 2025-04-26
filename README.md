@@ -91,12 +91,9 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 
 ---
 
-- 🏡 開源作品(大概有80個，還在持續累積中🏃‍♂️):  
-<a href="https://github.com/chiisen/ClaudeLocalMCP.js" target="_blank">🔗 "ClaudeLocalMCP.js",自己為 Claude 寫本地端 MCP Server (JavaScript版) 很簡單，有手就行😁</a>  
-<a href="https://github.com/chiisen/ClaudeLocalMCP.ts" target="_blank">🔗 "ClaudeLocalMCP.ts",自己為 Claude 寫本地端 MCP Server (TypeScript版) 很簡單，有手就行😁</a>  
-<a href="https://github.com/chiisen/mssql-bot" target="_blank">🔗 "mssql-bot"，MS-SQL 語法檢查、變更通知 Discord 機器人</a>  
-<a href="https://github.com/chiisen/WebSpeedReader" target="_blank">🔗 Web Speed Reader 中文為"網頁快速閱讀助手"，是一款 Chrome 擴充套件支持 groq 上的 mixtral-8x7b-32768 的 AI 總結工具</a>  
-<a href="https://github.com/chiisen/Simulate_3D_dice_rolling_animation.js" target="_blank">🔗 【與朋友討論前端動畫作法DEMO】盡量使用較少的程式碼模擬擲 3D 骰子的動畫演出( JavaScript 版本，附上完整註解說明)</a>  
+- 🏡 開源作品(持續累積中🏃‍♂️):  
+<a href="https://github.com/chiisen/ClaudeLocalMCP.js" target="_blank">🔗 "Sam 的🏡 開源作品介紹網站(持續累積中🏃‍♂️)(Jekyll版)"</a>  
+
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
@@ -120,7 +117,7 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 ### 📋 Languages
 <!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
