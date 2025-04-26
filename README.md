@@ -93,7 +93,7 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 
 - 🏡 開源作品(持續累積中🏃‍♂️):  
 <a href="https://chiisen.github.io" target="_blank">🔗 "Sam 的🏡 開源作品介紹網站(持續累積中🏃‍♂️)(Jekyll版)"</a>  
-<img src="./images/Jekyll.png" width="200">  
+<iframe src="https://chiisen.github.io"></iframe>
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
