@@ -93,13 +93,13 @@ MCP Server（Model Context Protocol Server）、OpenAI、n8n....
 
 - 🏡 開源作品(持續累積中🏃‍♂️):  
 <a href="https://chiisen.github.io" target="_blank">🔗 "Sam 的🏡 開源作品介紹網站(持續累積中🏃‍♂️)(Jekyll版)"</a>  
-
+<img src="./images/Jekyll.png" width="200">  
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
 ---
 
-- ⭐️ 文章分享(大概有10個，還在持續累積中🏃‍♂️):  
+- ⭐️ 文章分享(持續累積中🏃‍♂️):  
 <a href="https://github.com/chiisen/n8n" target="_blank">🔗 "n8n" 全面瞭解 n8n v1.88.0 的重磅更新 —— MCP Server。</a>  
 <a href="https://github.com/chiisen/Google_AI_Studio" target="_blank">🔗 "Google_AI_Studio" 教會你用 Google AI Studio 提早結束工作回家。</a>  
 <a href="https://github.com/chiisen/DesignPatterns.cs" target="_blank">🔗 C# 設計模式學習筆記與程式碼範例</a>  
