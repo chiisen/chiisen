@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 也許你想知道:
 - 👨‍💻 最近學習:  
-MCP Server（Model Context Protocol Server）、OpenAI、、NotebookLM、n8n....
+MCP Server（Model Context Protocol Server）、OpenAI、Claude、Perplexity、NotebookLM、n8n....
 
 ---
 
