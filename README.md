@@ -49,7 +49,7 @@ MCP Server（Model Context Protocol Server）、OpenAI、Claude、Perplexity、N
 
 ---
 
-- 👨‍💻 我的經歷:  
+- 👨‍💻 我的經歷(<a href="https://104-5nh.pages.dev" target="_blank">🔗 Sam 經歷詳細說明(Hexo 版)</a>):  
 
 <a href="https://reurl.cc/WAll35" target="_blank">🔗 2018年01月05日 雪霸國家公園櫻花鉤吻鮭互動導覽程式</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 <img src="./images/20180105salmon.jpg" width="200">  
