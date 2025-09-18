@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 也許你想知道:
 - 👨‍💻 最近學習:  
+- GitHub: Spec-Kit
+- AWS: Kiro
 - MCP Server（Model Context Protocol Server）  
 <img src="./images/MCP.jpg" width="200">  
 - OpenAI、Claude、Perplexity、NotebookLM  
@@ -118,6 +120,9 @@ Here are some ideas to get you started:
 ### 📋 Languages
 <!-- Icon 圖片網址可以參考: https://github.com/Ileriayo/markdown-badges -->
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
