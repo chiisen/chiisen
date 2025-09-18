@@ -53,11 +53,15 @@ Here are some ideas to get you started:
 [🔗Repositories: `ContextEngineeringTemplate`](https://github.com/chiisen/ContextEngineeringTemplate)  
 - MCP Server（Model Context Protocol Server）  
 <img src="./images/MCP.jpg" width="200">  
+[🔗Repositories: `ClaudeLocalMCP.js`](https://github.com/chiisen/ClaudeLocalMCP.js)  
+[🔗Repositories: `ClaudeLocalMCP.ts`](https://github.com/chiisen/ClaudeLocalMCP.ts)  
+[🔗Repositories: `unity-mcp`](https://github.com/chiisen/unity-mcp)  
+
 - OpenAI、Claude、Perplexity、NotebookLM  
 <img src="./images/ChatGPT.png" width="200">  
 - n8n  
 <img src="./images/n8n.png" width="200">  
-
+[🔗Repositories: `n8n`](https://github.com/chiisen/n8n)  
 
 ---
 
