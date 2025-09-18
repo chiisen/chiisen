@@ -45,8 +45,12 @@ Here are some ideas to get you started:
 
 也許你想知道:
 - 👨‍💻 最近學習:  
-- GitHub: Spec-Kit
-- AWS: Kiro
+- GitHub: Spec-Kit  
+[🔗Repositories: `spec-kit-todo`](https://github.com/chiisen/spec-kit-todo)  
+- AWS: Kiro  
+[🔗Repositories: `KIRO`](https://github.com/chiisen/KIRO)  
+- Context Engineering  
+[🔗Repositories: `ContextEngineeringTemplate`](https://github.com/chiisen/ContextEngineeringTemplate)  
 - MCP Server（Model Context Protocol Server）  
 <img src="./images/MCP.jpg" width="200">  
 - OpenAI、Claude、Perplexity、NotebookLM  
