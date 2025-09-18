@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 也許你想知道:
 - 👨‍💻 最近學習:  
-- GitHub: Spec-Kit  
+- GitHub: Spec-Kit (Spec-Driven Development)  
 [🔗Repositories: `spec-kit-todo`](https://github.com/chiisen/spec-kit-todo)  
 - AWS: Kiro  
 [🔗Repositories: `KIRO`](https://github.com/chiisen/KIRO)  
