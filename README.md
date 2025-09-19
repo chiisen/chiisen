@@ -53,6 +53,11 @@ Here are some ideas to get you started:
 
 ---
 
+- GitHub: BMad-Method (Breakthrough Method for Agile AI-Driven Development)  
+[🔗Repositories: `BMad-Method`](https://github.com/chiisen/BMad-Method)  
+
+---
+
 - AWS: Kiro  
 [🔗Repositories: `KIRO`](https://github.com/chiisen/KIRO)  
 
