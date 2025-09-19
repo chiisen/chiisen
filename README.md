@@ -49,16 +49,20 @@ Here are some ideas to get you started:
 ---
 
 - GitHub: Spec-Kit (Spec-Driven Development)  
+<img src="./images/Spec-Driven_Development_Toolkit.jpg" width="200">  
+<img src="./images/spec-kit-02.jpg" width="200">  
 [🔗Repositories: `spec-kit-todo`](https://github.com/chiisen/spec-kit-todo)  
 
 ---
 
 - GitHub: BMad-Method (Breakthrough Method for Agile AI-Driven Development)  
+<img src="./images/BMAD-MERHOD01.jpg" width="200">  
 [🔗Repositories: `BMad-Method`](https://github.com/chiisen/BMad-Method)  
 
 ---
 
 - AWS: Kiro  
+<img src="./images/Kiro.png" width="200">  
 [🔗Repositories: `KIRO`](https://github.com/chiisen/KIRO)  
 
 ---
@@ -82,8 +86,9 @@ Here are some ideas to get you started:
 
 ---
 
-- n8n  
+- n8n + RAG(spuabase)  
 <img src="./images/n8n.png" width="200">  
+<img src="./images/n8n_RAG_supabase.jpg" width="200">  
 [🔗Repositories: `n8n`](https://github.com/chiisen/n8n)  
 
 ---
