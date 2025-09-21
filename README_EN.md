@@ -36,11 +36,26 @@ Maybe you want to know:
 ---
 
 - GitHub: Spec-Kit (Spec-Driven Development)  
+<img src="./images/Spec-Driven_Development_Toolkit.jpg" width="200">  
+<img src="./images/spec-kit-02.jpg" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
 [🔗Repositories: `spec-kit-todo`](https://github.com/chiisen/spec-kit-todo)  
 
 ---
 
+- GitHub: BMad-Method (Breakthrough Method for Agile AI-Driven Development)  
+<img src="./images/BMAD-MERHOD01.jpg" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
+[🔗Repositories: `BMad-Method`](https://github.com/chiisen/BMad-Method)  
+
+---
+
 - AWS: Kiro  
+<img src="./images/Kiro.png" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
 [🔗Repositories: `KIRO`](https://github.com/chiisen/KIRO)  
 
 ---
