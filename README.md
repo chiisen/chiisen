@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 ---
 
 - Context Engineering  
+<img src="./images/ContextEngineeringTemplate.png" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
 [🔗Repositories: `ContextEngineeringTemplate`](https://github.com/chiisen/ContextEngineeringTemplate)  
 
 ---

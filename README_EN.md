@@ -61,6 +61,9 @@ Maybe you want to know:
 ---
 
 - Context Engineering  
+<img src="./images/ContextEngineeringTemplate.png" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
 [🔗Repositories: `ContextEngineeringTemplate`](https://github.com/chiisen/ContextEngineeringTemplate)  
 
 ---
