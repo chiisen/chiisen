@@ -49,11 +49,26 @@ Here are some ideas to get you started:
 ---
 
 - GitHub: Spec-Kit (Spec-Driven Development)  
+<img src="./images/Spec-Driven_Development_Toolkit.jpg" width="200">  
+<img src="./images/spec-kit-02.jpg" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
 [🔗Repositories: `spec-kit-todo`](https://github.com/chiisen/spec-kit-todo)  
 
 ---
 
+- GitHub: BMad-Method (Breakthrough Method for Agile AI-Driven Development)  
+<img src="./images/BMAD-MERHOD01.jpg" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
+[🔗Repositories: `BMad-Method`](https://github.com/chiisen/BMad-Method)  
+
+---
+
 - AWS: Kiro  
+<img src="./images/Kiro.png" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
 [🔗Repositories: `KIRO`](https://github.com/chiisen/KIRO)  
 
 ---
@@ -65,6 +80,7 @@ Here are some ideas to get you started:
 
 - MCP Server（Model Context Protocol Server）  
 <img src="./images/MCP.jpg" width="200">  
+<!-- 要空一行格式才不會亂 -->
 
 [🔗Repositories: `ClaudeLocalMCP.js`](https://github.com/chiisen/ClaudeLocalMCP.js)  
 [🔗Repositories: `ClaudeLocalMCP.ts`](https://github.com/chiisen/ClaudeLocalMCP.ts)  
@@ -77,8 +93,11 @@ Here are some ideas to get you started:
 
 ---
 
-- n8n  
+- n8n + RAG(spuabase)  
 <img src="./images/n8n.png" width="200">  
+<img src="./images/n8n_RAG_supabase.jpg" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
 [🔗Repositories: `n8n`](https://github.com/chiisen/n8n)  
 
 ---
@@ -181,9 +200,11 @@ Here are some ideas to get you started:
 ### 💾 Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
