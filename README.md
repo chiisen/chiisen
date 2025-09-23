@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 
 ---
 
+Vibe Coding
+
+---
+
 - GitHub: Spec-Kit (Spec-Driven Development)  
 <img src="./images/Spec-Driven_Development_Toolkit.jpg" width="200">  
 <img src="./images/spec-kit-02.jpg" width="200">  
