@@ -35,7 +35,7 @@ Maybe you want to know:
 
 ---
 
-Vibe Coding、Claude Code - Sub Agent
+Vibe Coding、Claude Code - Sub Agent、GPT-5-Codex
 
 ---
 
