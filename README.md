@@ -48,7 +48,18 @@ Here are some ideas to get you started:
 
 ---
 
-Vibe Coding、Claude Code - Sub Agent、GPT-5-Codex、OpenSpec
+Vibe Coding、  
+[Claude Code - Sub Agent](https://github.com/chiisen/ClaudeCodeManageMemory)、  
+[GPT-5-Codex](https://github.com/chiisen/VibeCodingGPT5Codex)、  
+[OpenSpec](https://github.com/chiisen/VibeCodingOpenSpec)、  
+[iFlow CLI](https://github.com/chiisen/iFlowCLI) 、  
+[Augment CLI](https://github.com/chiisen/AugmentCLI)、  
+[Qwen CLI](https://github.com/chiisen/qwen_cli)、  
+[Rovo Dev CLI](https://github.com/chiisen/RovoDevCLI)、  
+[GitHub Copilot CLI](https://github.com/chiisen/GitHubCopilotCLI)、  
+[CLine](https://github.com/chiisen/CLine)、  
+[Trae](https://github.com/chiisen/Trae)、  
+[Google AI Studio](https://github.com/chiisen/Google_AI_Studio)  
 
 ---
 
