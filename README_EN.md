@@ -36,6 +36,7 @@ Maybe you want to know:
 ---
 
 Vibe Coding、  
+[Codebuff](https://github.com/chiisen/VibeCodingCodebuff)  
 [Claude Code - Sub Agent](https://github.com/chiisen/ClaudeCodeManageMemory)、  
 [GPT-5-Codex](https://github.com/chiisen/VibeCodingGPT5Codex)、  
 [OpenSpec](https://github.com/chiisen/VibeCodingOpenSpec)、  
