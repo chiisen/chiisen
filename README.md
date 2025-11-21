@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ---
 
 Vibe Coding、  
+[Codebuff](https://github.com/chiisen/VibeCodingCodebuff)  
 [Claude Code - Sub Agent](https://github.com/chiisen/ClaudeCodeManageMemory)、  
 [GPT-5-Codex](https://github.com/chiisen/VibeCodingGPT5Codex)、  
 [OpenSpec](https://github.com/chiisen/VibeCodingOpenSpec)、  
@@ -60,7 +61,7 @@ Vibe Coding、
 [CLine](https://github.com/chiisen/CLine)、  
 [Trae](https://github.com/chiisen/Trae)、  
 [Google AI Studio](https://github.com/chiisen/Google_AI_Studio)  
-[AnythingLLM RAG - 打造自己的地端 AI 客服系統、AI 知識庫系統、AI 智慧助理、AI 專家機器人](https://github.com/chiisen/AnythingLLM_RAG)
+[AnythingLLM RAG - 打造自己的地端 AI 客服系統、AI 知識庫系統、AI 智慧助理、AI 專家機器人](https://github.com/chiisen/AnythingLLM_RAG)  
 
 ---
 
