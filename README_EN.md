@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 <!-- Code Art 2 -->
 <img src="https://i.imgur.com/cAcoxOp.jpg" width="200">  
 
+---
+
+[https://chiisen.github.io](https://chiisen.github.io)  
+[https://104-5nh.pages.dev](https://104-5nh.pages.dev)  
+[https://docs-axs.pages.dev](https://docs-axs.pages.dev)  
+[https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI)  
+
+---
+
 - 👨‍💻 Over 15 years of work experience
 
 Maybe you want to know:
