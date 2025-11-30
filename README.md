@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 ---
 
-[https://chiisen.github.io](https://chiisen.github.io)  
-[https://104-5nh.pages.dev](https://104-5nh.pages.dev)  
-[https://docs-axs.pages.dev](https://docs-axs.pages.dev)  
-[https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI)  
+[🔗https://chiisen.github.io](https://chiisen.github.io)  
+[🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev)  
+[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev)  
+[🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI)  
 
 ---
 
