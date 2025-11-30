@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 
 ---
 
-[🔗https://chiisen.github.io](https://chiisen.github.io)  
-[🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev)  
-[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev)  
-[🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI)  
+[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 Sam 的開源作品(持續累積中🏃‍♂️)(Jekyll版)  
+[🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev) 使用 Hexo 架設簡單的 104 個人履歷並發佈到 `cloudflare`  
+[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ Sam 的文章分享(持續累積中🏃‍♂️)(Hexo版)  
+[🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI) 104 履歷參考資料  
 
 ---
 

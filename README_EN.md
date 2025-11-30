@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 
 ---
 
-[🔗https://chiisen.github.io](https://chiisen.github.io)  
-[🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev)  
-[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev)  
-[🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI)  
+[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 Sam’s open-source projects (continuously growing🏃‍♂️)(Jekyll version)  
+[🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev) A simple 104 personal résumé built with Hexo and deployed to `cloudflare`  
+[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ Sam’s article sharing (continuously growing🏃‍♂️)(Hexo version)  
+[🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI) 104 résumé reference materials  
+
 
 ---
 
