@@ -53,6 +53,14 @@ Vibe Coding、
 
 ---
 
+- GitHub: Vibe Coding Gaming Platform  
+<img src="./images/Online.png" width="200">  
+<!-- 要空一行格式才不會亂 -->
+
+[🔗Repositories: `VibeCodingGamingPlatform`](https://github.com/chiisen/VibeCodingGamingPlatform)  
+
+---
+
 - GitHub: OpenSpec (Spec-Driven Development)  
 <img src="./images/OpenSpec.png" width="200">  
 <!-- 要空一行格式才不會亂 -->
