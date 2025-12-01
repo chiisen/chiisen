@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 ---
 
 Vibe Coding、  
-[better-agents](https://github.com/chiisen/better-agents-html)  
-[Google Antigravity](https://github.com/chiisen/VibeCodingGamingPlatform)  
+[better-agents](https://github.com/chiisen/better-agents-html)、  
+[Google Antigravity](https://github.com/chiisen/VibeCodingGamingPlatform)、  
 [Codebuff](https://github.com/chiisen/VibeCodingCodebuff)、  
 [Claude Code - Sub Agent](https://github.com/chiisen/ClaudeCodeManageMemory)、  
 [GPT-5-Codex](https://github.com/chiisen/VibeCodingGPT5Codex)、  
