@@ -59,7 +59,8 @@ Vibe Coding、
 [CLine](https://github.com/chiisen/CLine)、  
 [Trae](https://github.com/chiisen/Trae)、  
 [Google AI Studio](https://github.com/chiisen/Google_AI_Studio)  
-[AnythingLLM RAG - Build Your Own On-Premises AI Customer Service System, AI Knowledge Base System, AI Smart Assistant, and AI Expert Robot](https://github.com/chiisen/AnythingLLM_RAG)
+[AnythingLLM RAG - Build Your Own On-Premises AI Customer Service System, AI Knowledge Base System, AI Smart Assistant, and AI Expert Robot](https://github.com/chiisen/AnythingLLM_RAG)  
+Cursor, Windsurf, Trae, Lingma  
 
 ---
 
