@@ -62,6 +62,8 @@ Vibe Coding、
 [Google Antigravity](https://github.com/chiisen/VibeCodingGamingPlatform)、  
 [Codebuff](https://github.com/chiisen/VibeCodingCodebuff)、  
 [Claude Code - Sub Agent](https://github.com/chiisen/ClaudeCodeManageMemory)、  
+Claude Code Skills、  
+Claude Code plugin ralph-wiggum、  
 [GPT-5-Codex](https://github.com/chiisen/VibeCodingGPT5Codex)、  
 [OpenSpec](https://github.com/chiisen/VibeCodingOpenSpec)、  
 [iFlow CLI](https://github.com/chiisen/iFlowCLI) 、  
