@@ -46,6 +46,8 @@ Maybe you want to know:
 ---
 
 Vibe Coding、  
+[mini_bot.go (OpenClaw MVP Clone)](https://github.com/chiisen/mini_bot.go)、  
+[mini_bot (Python version)](https://github.com/chiisen/mini_bot)、  
 [better-agents](https://github.com/chiisen/better-agents-html)、  
 [Google Antigravity](https://github.com/chiisen/VibeCodingGamingPlatform)、  
 [Codebuff](https://github.com/chiisen/VibeCodingCodebuff)、  
@@ -123,6 +125,38 @@ Cursor, Windsurf, Trae, Lingma
 [🔗Repositories: `ClaudeLocalMCP.js`](https://github.com/chiisen/ClaudeLocalMCP.js)  
 [🔗Repositories: `ClaudeLocalMCP.ts`](https://github.com/chiisen/ClaudeLocalMCP.ts)  
 [🔗Repositories: `unity-mcp`](https://github.com/chiisen/unity-mcp)  
+
+---
+
+- mini_bot / mini_bot.go (OpenClaw MVP Clone)  
+Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/opencode), currently in MVP version, continuously iterating.
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/go-%23000ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+
+**mini_bot.go (Go version)**  
+🤖 Ultra-lightweight local AI assistant, pure Go implementation  
+📦 Single executable < 15MB, RAM usage < 10MB  
+💰 Low resource consumption helps reduce server costs  
+🔧 Local tool calling (Sandbox mechanism)  
+🌐 Built-in web search (DuckDuckGo API)  
+☁️ Multi-provider support (OpenAI, Ollama, MiniMax, DeepSeek, etc.)  
+📱 Telegram integration (Long Polling + whitelist filtering)  
+
+[🔗Repositories: `mini_bot.go`](https://github.com/chiisen/mini_bot.go)
+
+---
+
+**mini_bot (Python version)**  
+🤖 Personal AI Agent built based on [OpenClaw](https://github.com/anomalyco/opencode) concepts, referencing its architecture design  
+📚 Based on LiteLLM, supports multiple LLM providers, rich Python AI ecosystem, easy to extend and learn  
+📚 Rich Python AI ecosystem, easy to extend and learn  
+🔧 Basic tools: read/write/list directory  
+💾 Session persistence (JSONL format)  
+🧠 Long-term memory (MEMORY.md)  
+⚡ Asynchronous Agent Loop  
+
+[🔗Repositories: `mini_bot`](https://github.com/chiisen/mini_bot)
 
 ---
 
