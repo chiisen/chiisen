@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 ---
 
 Vibe Coding、  
-[mini_bot.go (OpenClaw MVP 模仿專案)](https://github.com/chiisen/mini_bot.go)、  
-[mini_bot (Python 版)](https://github.com/chiisen/mini_bot)、  
+[mini_bot.go (OpenClaw MVP 自學模仿專案 Go 版)](https://github.com/chiisen/mini_bot.go)、  
+[mini_bot (OpenClaw MVP 自學模仿專案 Python 版)](https://github.com/chiisen/mini_bot)、  
 [better-agents](https://github.com/chiisen/better-agents-html)、  
 [Google Antigravity](https://github.com/chiisen/VibeCodingGamingPlatform)、  
 [Codebuff](https://github.com/chiisen/VibeCodingCodebuff)、  

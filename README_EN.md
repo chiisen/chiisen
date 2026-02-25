@@ -46,8 +46,8 @@ Maybe you want to know:
 ---
 
 Vibe Coding、  
-[mini_bot.go (OpenClaw MVP Clone)](https://github.com/chiisen/mini_bot.go)、  
-[mini_bot (Python version)](https://github.com/chiisen/mini_bot)、  
+[mini_bot.go (OpenClaw MVP Clone - Go Version for Self-learning)](https://github.com/chiisen/mini_bot.go)、  
+[mini_bot (OpenClaw MVP Clone - Python Version for Self-learning)](https://github.com/chiisen/mini_bot)、  
 [better-agents](https://github.com/chiisen/better-agents-html)、  
 [Google Antigravity](https://github.com/chiisen/VibeCodingGamingPlatform)、  
 [Codebuff](https://github.com/chiisen/VibeCodingCodebuff)、  
