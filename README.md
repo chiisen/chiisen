@@ -82,6 +82,30 @@ Cursor、Windsurf、Trae、Lingma
 
 ---
 
+- mini_bot.go (OpenClaw MVP 自學模仿專案 Go 版)  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
+參考 [OpenClaw](https://github.com/anomalyco/opencode) 打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。  
+🤖 極致輕量的本地端 AI 助理，純 Go 實作  
+📦 單一執行檔 < 15MB，RAM 消耗 < 10MB  
+💰 低資源消耗有助於降低伺服器成本  
+🔧 本地工具呼叫（Sandbox 沙箱機制）  
+🌐 內建網頁搜尋（DuckDuckGo API）  
+☁️ 多供應商支援（OpenAI、Ollama、MiniMax、DeepSeek 等）  
+📱 Telegram 整合（Long Polling + 白名單過濾）  
+
+[🔗Repositories: `mini_bot.go`](https://github.com/chiisen/mini_bot.go)
+
+---
+
+- mini_bot (OpenClaw MVP 自學模仿專案 Python 版)  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
+🤖 基於 [OpenClaw](https://github.com/anomalyco/opencode) 概念，參考其架構設計的 Personal AI Agent  
+📚 基於 LiteLLM 支援多種 LLM Provider，Python AI 生態資源豐富，易於擴充與學習  
+📚 Python AI 生態資源豐富，易於擴充與學習  
+🔧 基本工具：讀/寫/列目錄  
+💾 Session 持久化（JSONL 格式）  
+🧠 長期記憶（MEMORY.md）  
+⚡ 非同步 Agent Loop  
+
+[🔗Repositories: `mini_bot`](https://github.com/chiisen/mini_bot)
 - GitHub: Vibe Coding Gaming Platform  
 <img src="./images/Online.png" width="200">  
 <!-- 要空一行格式才不會亂 -->
@@ -138,38 +162,6 @@ Cursor、Windsurf、Trae、Lingma
 [🔗Repositories: `ClaudeLocalMCP.js`](https://github.com/chiisen/ClaudeLocalMCP.js)  
 [🔗Repositories: `ClaudeLocalMCP.ts`](https://github.com/chiisen/ClaudeLocalMCP.ts)  
 [🔗Repositories: `unity-mcp`](https://github.com/chiisen/unity-mcp)
-
----
-
-- mini_bot / mini_bot.go (OpenClaw MVP 模仿專案)  
-參考 [OpenClaw](https://github.com/anomalyco/opencode) 打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。
-
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-
-**mini_bot.go (Go 版)**  
-🤖 極致輕量的本地端 AI 助理，純 Go 實作  
-📦 單一執行檔 < 15MB，RAM 消耗 < 10MB  
-💰 低資源消耗有助於降低伺服器成本  
-🔧 本地工具呼叫（Sandbox 沙箱機制）  
-🌐 內建網頁搜尋（DuckDuckGo API）  
-☁️ 多供應商支援（OpenAI、Ollama、MiniMax、DeepSeek 等）  
-📱 Telegram 整合（Long Polling + 白名單過濾）  
-
-[🔗Repositories: `mini_bot.go`](https://github.com/chiisen/mini_bot.go)
-
----
-
-**mini_bot (Python 版)**  
-🤖 基於 [OpenClaw](https://github.com/anomalyco/opencode) 概念，參考其架構設計的 Personal AI Agent  
-📚 基於 LiteLLM 支援多種 LLM Provider，Python AI 生態資源豐富，易於擴充與學習  
-📚 Python AI 生態資源豐富，易於擴充與學習  
-🔧 基本工具：讀/寫/列目錄  
-💾 Session 持久化（JSONL 格式）  
-🧠 長期記憶（MEMORY.md）  
-⚡ 非同步 Agent Loop  
-
-[🔗Repositories: `mini_bot`](https://github.com/chiisen/mini_bot)
 
 ---
 
