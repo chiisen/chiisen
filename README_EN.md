@@ -45,7 +45,7 @@ Maybe you want to know:
 
 ---
 
-Vibe Coding、  
+[MiniOC (Mini OpenCode — Bring the powerful OpenCode reasoning engine into your Telegram! Ensure absolute security through Docker containerization, creating the most lightweight, easy-to-use, and personalized AI assistant.)](https://github.com/chiisen/MiniOC)、  
 [mini_bot.go (OpenClaw MVP Clone - Go Version for Self-learning)](https://github.com/chiisen/mini_bot.go)、  
 [mini_bot (OpenClaw MVP Clone - Python Version for Self-learning)](https://github.com/chiisen/mini_bot)、  
 [better-agents](https://github.com/chiisen/better-agents-html)、  
