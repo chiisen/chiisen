@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-Vibe Coding、  
+[MiniOC (迷你 OC（Mini OpenCode） —— 將強大的 OpenCode 思考引擎裝進你的 Telegram！透過 Docker 容器化確保絕對安全，打造最輕巧、易用且專屬於你的 AI 助手。)](https://github.com/chiisen/MiniOC)、  
 [mini_bot.go (OpenClaw MVP 自學模仿專案 Go 版)](https://github.com/chiisen/mini_bot.go)、  
 [mini_bot (OpenClaw MVP 自學模仿專案 Python 版)](https://github.com/chiisen/mini_bot)、  
 [better-agents](https://github.com/chiisen/better-agents-html)、  
