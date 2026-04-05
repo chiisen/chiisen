@@ -9,3 +9,4 @@
 
 ### Changed
 - 將 `README_EN.md` 第 48 行的「學習 Claude Code CLI 實作」翻譯為英文。
+- 將 `README_EN.md` 第 49-50 行的「Superpowers 專案」相關描述翻譯為英文。
