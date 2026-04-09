@@ -45,6 +45,8 @@ Maybe you want to know:
 
 ---
 
+[Hermes-Agent Learning Notes](https://github.com/chiisen/Hermes-Agent)  
+[MemPalace - A fully local, free AI memory system](https://github.com/chiisen/MemPalace)  
 [Learning Claude Code CLI Implementation](https://github.com/chiisen/cc-cli-go)  
 [Todo List built with Superpowers to verify the Superpowers development workflow.](https://github.com/chiisen/superpowers_todo)  
 [A Todo List project for experiencing the complete Superpowers TDD workflow.](https://github.com/chiisen/superpowers_todo_tdd)  

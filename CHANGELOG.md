@@ -8,6 +8,8 @@
 ## [Unreleased]
 
 ### Changed
-- 將 `README_EN.md` 第 48 行的「學習 Claude Code CLI 實作」翻譯為英文。
-- 將 `README_EN.md` 第 49-50 行的「Superpowers 專案」相關描述翻譯為英文。
-- 將 `README_EN.md` 第 51 行的「Flutter 學習筆記」描述翻譯為英文。
+- 將 `README_EN.md` 第 48 行的「Hermes-Agent 學習筆記」翻譯為英文。
+- 將 `README_EN.md` 第 49 行的「MemPalace」相關描述翻譯為英文。
+- 將 `README_EN.md` 第 50 行的「學習 Claude Code CLI 實作」翻譯為英文。
+- 將 `README_EN.md` 第 51-52 行的「Superpowers 專案」相關描述翻譯為英文。
+- 將 `README_EN.md` 第 53 行的「Flutter 學習筆記」描述翻譯為英文。

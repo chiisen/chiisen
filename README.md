@@ -44,6 +44,8 @@
 
 ---
 
+[Hermes-Agent 學習筆記](https://github.com/chiisen/Hermes-Agent). 
+[MemPalace 完全本地運行、免費的 AI 記憶系統 ](https://github.com/chiisen/MemPalace). 
 [學習 Claude Code CLI 實作](https://github.com/chiisen/cc-cli-go)  
 [利用 Superpowers 製作一個 Todo List，驗證 superpowers 開發流程。](https://github.com/chiisen/superpowers_todo)  
 [完整體驗 Superpowers TDD流程的 Todo List專案。](https://github.com/chiisen/superpowers_todo_tdd)  
