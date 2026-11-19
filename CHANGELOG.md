@@ -8,6 +8,7 @@
 ## [Unreleased]
 
 ### Changed
+- 中英文個人頁的工具清單將 Windsurf 改為 Devin Desktop，並註明舊名。
 - 將 `README_EN.md` 第 48 行的「Hermes-Agent 學習筆記」翻譯為英文。
 - 將 `README_EN.md` 第 49 行的「MemPalace」相關描述翻譯為英文。
 - 將 `README_EN.md` 第 50 行的「學習 Claude Code CLI 實作」翻譯為英文。

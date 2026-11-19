@@ -71,7 +71,7 @@ Claude Code plugin ralph-wiggum、
 [Google AI Studio](https://github.com/chiisen/Google_AI_Studio)、  
 [AnythingLLM RAG - 打造自己的地端 AI 客服系統、AI 知識庫系統、AI 智慧助理、AI 專家機器人](https://github.com/chiisen/AnythingLLM_RAG)、  
 [Nano Banana Pro 提示詞工程神器](https://github.com/chiisen/NanoBananaPro)  
-Cursor、Windsurf、Trae、Lingma  
+Cursor、Devin Desktop（舊名 Windsurf）、Trae、Lingma  
 
 ---
 

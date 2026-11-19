@@ -72,7 +72,7 @@ Claude Code plugin ralph-wiggum、
 [Google AI Studio](https://github.com/chiisen/Google_AI_Studio)、  
 [AnythingLLM RAG - Build Your Own On-Premises AI Customer Service System, AI Knowledge Base System, AI Smart Assistant, and AI Expert Robot](https://github.com/chiisen/AnythingLLM_RAG)、  
 [Nano Banana Pro Prompt Engineering Toolkit](https://github.com/chiisen/NanoBananaPro)  
-Cursor, Windsurf, Trae, Lingma  
+Cursor, Devin Desktop (formerly Windsurf), Trae, Lingma  
 
 ---
 
