@@ -60,14 +60,14 @@ Maybe you want to know:
 [Claude Code - Sub Agent](https://github.com/chiisen/ClaudeCodeManageMemory)、  
 Claude Code Skills、  
 Claude Code plugin ralph-wiggum、  
-[GPT-5-Codex](https://github.com/chiisen/VibeCodingGPT5Codex)、  
+[Codex notes (now GPT-6.2-Sol; repo started as GPT-5-Codex)](https://github.com/chiisen/VibeCodingGPT5Codex)、  
 [OpenSpec](https://github.com/chiisen/VibeCodingOpenSpec)、  
 [iFlow CLI](https://github.com/chiisen/iFlowCLI) 、  
 [Augment CLI](https://github.com/chiisen/AugmentCLI)、  
 [Qwen CLI](https://github.com/chiisen/qwen_cli)、  
 [Rovo Dev CLI](https://github.com/chiisen/RovoDevCLI)、  
 [GitHub Copilot CLI](https://github.com/chiisen/GitHubCopilotCLI)、  
-[CLine](https://github.com/chiisen/CLine)、  
+[Cline](https://github.com/chiisen/CLine)、  
 [Trae](https://github.com/chiisen/Trae)、  
 [Google AI Studio](https://github.com/chiisen/Google_AI_Studio)、  
 [AnythingLLM RAG - Build Your Own On-Premises AI Customer Service System, AI Knowledge Base System, AI Smart Assistant, and AI Expert Robot](https://github.com/chiisen/AnythingLLM_RAG)、  
@@ -77,7 +77,7 @@ Cursor, Devin Desktop (formerly Windsurf), Trae, Lingma
 ---
 
 - mini_bot.rs (OpenClaw MVP Clone - Rust Version for Self-learning)  <img src="https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white" />  
-Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/opencode), currently in MVP version, continuously iterating.  
+Personal AI Agent built inspired by [OpenClaw](https://github.com/openclaw/openclaw) (formerly Clawdbot and Moltbot), currently in MVP version, continuously iterating.  
 - **Ultra-low resource consumption**: < 5MB RAM runtime memory
 - **Fast startup**: < 10ms cold start time
 - **Highly modular**: Trait-driven architecture, all components are replaceable
@@ -89,7 +89,7 @@ Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/open
 ---
 
 - mini_bot.go (OpenClaw MVP Clone - Go Version for Self-learning) <img src="https://img.shields.io/badge/go-%23000ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
-Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/opencode), currently in MVP version, continuously iterating.  
+Personal AI Agent built inspired by [OpenClaw](https://github.com/openclaw/openclaw) (formerly Clawdbot and Moltbot), currently in MVP version, continuously iterating.  
 🤖 Ultra-lightweight local AI assistant, pure Go implementation  
 📦 Single executable < 15MB, RAM usage < 10MB  
 💰 Low resource consumption helps reduce server costs  
@@ -103,7 +103,7 @@ Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/open
 ---
 
 - mini_bot (OpenClaw MVP Clone - Python Version for Self-learning) <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
-🤖 Personal AI Agent built based on [OpenClaw](https://github.com/anomalyco/opencode) concepts, referencing its architecture design  
+🤖 Personal AI Agent built based on [OpenClaw](https://github.com/openclaw/openclaw) (formerly Clawdbot and Moltbot) concepts, referencing its architecture design  
 📚 Based on LiteLLM, supports multiple LLM providers, rich Python AI ecosystem, easy to extend and learn  
 📚 Rich Python AI ecosystem, easy to extend and learn  
 🔧 Basic tools: read/write/list directory  

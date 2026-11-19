@@ -59,14 +59,14 @@
 [Claude Code - Sub Agent](https://github.com/chiisen/ClaudeCodeManageMemory)、  
 Claude Code Skills、  
 Claude Code plugin ralph-wiggum、  
-[GPT-5-Codex](https://github.com/chiisen/VibeCodingGPT5Codex)、  
+[Codex 學習筆記（現用 GPT-6.2-Sol，倉庫始於 GPT-5-Codex）](https://github.com/chiisen/VibeCodingGPT5Codex)、  
 [OpenSpec](https://github.com/chiisen/VibeCodingOpenSpec)、  
 [iFlow CLI](https://github.com/chiisen/iFlowCLI) 、  
 [Augment CLI](https://github.com/chiisen/AugmentCLI)、  
 [Qwen CLI](https://github.com/chiisen/qwen_cli)、  
 [Rovo Dev CLI](https://github.com/chiisen/RovoDevCLI)、  
 [GitHub Copilot CLI](https://github.com/chiisen/GitHubCopilotCLI)、  
-[CLine](https://github.com/chiisen/CLine)、  
+[Cline](https://github.com/chiisen/CLine)、  
 [Trae](https://github.com/chiisen/Trae)、  
 [Google AI Studio](https://github.com/chiisen/Google_AI_Studio)、  
 [AnythingLLM RAG - 打造自己的地端 AI 客服系統、AI 知識庫系統、AI 智慧助理、AI 專家機器人](https://github.com/chiisen/AnythingLLM_RAG)、  
@@ -76,7 +76,7 @@ Cursor、Devin Desktop（舊名 Windsurf）、Trae、Lingma
 ---
 
 - mini_bot.rs (OpenClaw MVP 自學模仿專案 Rust 版)  <img src="https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white" />  
-參考 [OpenClaw](https://github.com/anomalyco/opencode) 打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。  
+參考 [OpenClaw](https://github.com/openclaw/openclaw)（舊名 Clawdbot、Moltbot）打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。  
 - **極低資源消耗**：< 5MB RAM 執行時期記憶體
 - **快速啟動**：< 10ms 冷啟動時間
 - **高度模組化**：透過 Trait 驅動的架構，所有元件皆可替換
@@ -88,7 +88,7 @@ Cursor、Devin Desktop（舊名 Windsurf）、Trae、Lingma
 ---
  
 - mini_bot.go (OpenClaw MVP 自學模仿專案 Go 版)  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
-參考 [OpenClaw](https://github.com/anomalyco/opencode) 打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。  
+參考 [OpenClaw](https://github.com/openclaw/openclaw)（舊名 Clawdbot、Moltbot）打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。  
 🤖 極致輕量的本地端 AI 助理，純 Go 實作  
 📦 單一執行檔 < 15MB，RAM 消耗 < 10MB  
 💰 低資源消耗有助於降低伺服器成本  
@@ -102,7 +102,7 @@ Cursor、Devin Desktop（舊名 Windsurf）、Trae、Lingma
 ---
 
 - mini_bot (OpenClaw MVP 自學模仿專案 Python 版)  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
-🤖 基於 [OpenClaw](https://github.com/anomalyco/opencode) 概念，參考其架構設計的 Personal AI Agent  
+🤖 基於 [OpenClaw](https://github.com/openclaw/openclaw)（舊名 Clawdbot、Moltbot）概念，參考其架構設計的 Personal AI Agent  
 📚 基於 LiteLLM 支援多種 LLM Provider，Python AI 生態資源豐富，易於擴充與學習  
 📚 Python AI 生態資源豐富，易於擴充與學習  
 🔧 基本工具：讀/寫/列目錄  
